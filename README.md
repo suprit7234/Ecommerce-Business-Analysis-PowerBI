@@ -74,7 +74,7 @@ Business users relied on manual reporting, resulting in delayed insights and ine
 
 ### Dashboard Overview
 
-![Dashboard](Screenshots/Dashboard_Overview.png)
+![Dashboard](Ecommerce-sales-dashboard-SS.png)
 
 ---
 
@@ -106,5 +106,5 @@ Business users relied on manual reporting, resulting in delayed insights and ine
 ---
 
 ## Connect with Me
-LinkedIn: https://www.linkedin.com/in/suprit-tapase-637541294
+LinkedIn: https://www.linkedin.com/in/suprit-tapase-637541294\
 GitHub: https://github.com/suprit7234
